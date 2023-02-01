@@ -36,8 +36,6 @@ console.log(triplo(7));
 
 // Exercicio 06
 
-let num = 0;
-
 function duo(num){
 
     if (num == 0){
